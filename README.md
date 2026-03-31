@@ -1,5 +1,5 @@
 # Wazuh DDoS & Web Attack Protection Suite
-# # (c) 2024-2026 thelema-froxward
+#  (c) 2024-2026 thelema-froxward
 # Licensed under the MIT License
 Automated threat detection and mitigation for Wazuh. Detects network-level DDoS and common web application attacks, then blocks the source using multiple layers — from kernel-level ipset/iptables to nginx, fail2ban, and optionally Cloudflare.
 
