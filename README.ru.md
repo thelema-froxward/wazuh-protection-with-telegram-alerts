@@ -1,5 +1,5 @@
 # Wazuh DDoS & Web Attack Protection Suite
-# # (c) 2024-2026 thelema-froxward
+#  (c) 2024-2026 thelema-froxward
 # Licensed under the MIT License
 Автоматическое обнаружение и блокировка сетевых атак и атак на веб-приложения через Wazuh. Кастомные правила детектят угрозу, active response скрипт тут же блокирует источник на нескольких уровнях — от ipset/iptables в ядре до nginx, fail2ban и опционально Cloudflare.
 
