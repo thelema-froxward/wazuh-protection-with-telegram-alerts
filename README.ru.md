@@ -53,7 +53,6 @@
 
 ```
 git clone <repo-url>
-cd wazuh-protection-suite
 sudo bash install.sh
 ```
 
