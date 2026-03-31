@@ -53,7 +53,6 @@ All rules are mapped to MITRE ATT&CK techniques.
 
 ```
 git clone <repo-url>
-cd wazuh-protection-suite
 sudo bash install.sh
 ```
 
