@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-
+# (c) 2024-2026 thelema-froxward
+# Licensed under the MIT License
 import sys
 import os
 import json
